@@ -1,8 +1,8 @@
 Pruebas del mini-sitio y API – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Isabela Castilla Berrío
+Fecha:15/05/2026
+Nombre de la rama:isabela_castilla
 
 Prueba 1: Abrir mini-sitio
 
@@ -12,23 +12,23 @@ http://localhost:3000
 Resultado esperado:
 El navegador muestra el mini-sitio comunitario.
 
-Resultado observado:
+Resultado observado: se muestra el mini-sitio.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si.
 
 Prueba 2: Cargar mensajes
 
 Acción:
 Hacer clic en Cargar mensajes.
 
-Resultado esperado:
+Resultado esperado: 
 Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente.
 
-Resultado observado:
+Resultado observado:se despliegan 3 apartados: "Verifica antes de compartir, Participa con respeto y Avisos comunitarios claros"
 
 ¿Funcionó?
-Respuesta:
+Respuesta:si.
 
 Prueba 3: Cargar calendario editorial
 
@@ -38,26 +38,26 @@ Hacer clic en Cargar calendario.
 Resultado esperado:
 Aparecen 6 piezas del calendario editorial.
 
-Resultado observado:
+Resultado observado: so observan las 6 piezas de calendario editorial.
 
 ¿Funcionó?
-Respuesta:
+Respuesta:Si.
 
 Prueba 4: Ruta directa de mensajes
 
 Ruta:
 http://localhost:3000/api/mensajes
 
-Resultado observado:
+Resultado observado: se muestran 3 apartados compartiendo algunas pautas.
 
 Prueba 5: Ruta directa de calendario
 
-Ruta:
+Ruta: 
 http://localhost:3000/api/calendario
 
-Resultado observado:
+Resultado observado: se muestra la programación por semana y su contenido.
 
 Conclusión:
 ¿Qué prueba te ayudó más a entender cómo el mini-sitio consume la API?
 
-Respuesta:
+Respuesta: considero de que todas las pruebas me ayudaron a entender la dinamica de la API. La cual es fundamental, aunque en la prueba de la ruta directa de mensajes, evidencie mejor esta función. 

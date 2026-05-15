@@ -1,47 +1,47 @@
 Conceptos básicos de async y await – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Isabela Castilla Berrío
+Fecha:15/05/2026
+Nombre de la rama:isabela_castilla
 
 Responde con tus propias palabras.
 
 1. ¿Qué es una promesa en JavaScript?
 
-Respuesta:
+Respuesta:una promesa es un resultado que aún no esta listo, pero que llegara despúes 
 
 2. ¿Qué significa async?
 
-Respuesta:
+Respuesta: El async nos indica que trabajaremos con una promesa. Y va antes que una función.
 
 3. ¿Qué significa await?
 
-Respuesta:
+Respuesta: El await nso dice que esperemos en lo termina la promesa y solo puede usarse en funciones async.
 
 4. ¿Por qué fetch devuelve una promesa?
 
-Respuesta:
+Respuesta: devuelve una promesa porque su funcion es de hacer de puente entre el usuario y el servidor. Por lo tanto, devuelve una promesa de una solicitud.
 
 5. ¿Qué diferencia viste entre .then() y async/await?
 
-Respuesta:
+Respuesta: la principal diferencia es en el moemnto de escribir y leer el código. Hacen casi lo mismo, solo que uno utiliza cadenas y puede dificultar un poco entender y el otro es más simple y ordenado.
 
 6. ¿Qué hace try en esta práctica?
 
-Respuesta:
+Respuesta: Es como decir internar hacer alguna función.
 
 7. ¿Qué hace catch en esta práctica?
 
-Respuesta:
+Respuesta: Y si en caso de no funcionar el catch la "atrapa" y muestra el error.
 
 8. ¿Qué ruta se usa para cargar mensajes?
 
-Respuesta:
+Respuesta: http://localhost:3000/api/mensajes
 
 9. ¿Qué ruta se usa para cargar calendario editorial?
 
-Respuesta:
+Respuesta: http://localhost:3000/api/calendario
 
 10. ¿Cómo ayuda async y await a leer mejor el código?
 
-Respuesta:
+Respuesta:permite que el código se vea más "limpio", y organizado. Facilitando su entendimiento.
