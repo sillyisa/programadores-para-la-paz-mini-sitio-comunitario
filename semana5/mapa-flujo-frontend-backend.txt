@@ -1,0 +1,67 @@
+Mapa del flujo Frontend-Backend – Clase 23
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Completa el flujo con tus palabras.
+
+1. Frontend
+
+¿Qué parte del proyecto corresponde al frontend?
+
+Respuesta:
+
+2. Backend
+
+¿Qué parte del proyecto corresponde al backend?
+
+Respuesta:
+
+3. API propia
+
+¿Qué rutas expone la API propia del proyecto?
+
+Respuesta:
+
+4. Datos
+
+¿Qué archivos JSON usa el backend para responder?
+
+Respuesta:
+
+5. Consulta desde frontend
+
+¿Qué función de JavaScript se usa para consultar la API?
+
+Respuesta:
+
+6. Espera de respuesta
+
+¿Qué palabras se usan para esperar la respuesta del servidor?
+
+Respuesta:
+
+7. Conversión de respuesta
+
+¿Qué hace respuesta.json()?
+
+Respuesta:
+
+8. Render dinámico
+
+¿Qué significa mostrar datos dinámicamente en el tablero?
+
+Respuesta:
+
+9. Prueba
+
+¿Cómo verificaste que la información del tablero coincide con la API?
+
+Respuesta:
+
+10. Propósito comunitario
+
+¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
+
+Respuesta:

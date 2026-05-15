@@ -1,0 +1,67 @@
+Checklist de API propia – Clase 23
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Marca SÍ o NO y explica brevemente.
+
+1. Integración Frontend-Backend
+
+¿El frontend consulta información del backend?
+
+Respuesta:
+
+2. Consumo de la API propia
+
+¿La página usa rutas del mismo proyecto?
+
+Respuesta:
+
+3. Mensajes dinámicos
+
+¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
+
+Respuesta:
+
+4. Ruta GET /api/mensajes
+
+¿La ruta responde correctamente?
+
+Respuesta:
+
+5. Ruta GET /api/calendario
+
+¿La ruta responde correctamente?
+
+Respuesta:
+
+6. Ruta GET /api/resumen
+
+¿La ruta responde correctamente?
+
+Respuesta:
+
+7. Respuesta JSON
+
+¿Las rutas entregan datos estructurados?
+
+Respuesta:
+
+8. Render dinámico
+
+¿El tablero muestra datos recibidos desde la API?
+
+Respuesta:
+
+9. Diagnóstico básico
+
+¿Sabes qué revisar si no carga la información?
+
+Respuesta:
+
+10. Comunicación responsable
+
+¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
+
+Respuesta:

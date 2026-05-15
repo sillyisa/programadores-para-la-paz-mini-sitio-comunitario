@@ -1,0 +1,67 @@
+Checklist de accesibilidad y seguridad visual – Clase 22
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Marca SÍ o NO y explica brevemente.
+
+1. Tablero de mensajes
+
+¿La interfaz funciona como vitrina comunitaria clara?
+
+Respuesta:
+
+2. Accesibilidad mínima
+
+¿Los títulos son comprensibles y las secciones están separadas?
+
+Respuesta:
+
+3. Legibilidad
+
+¿Los textos se pueden leer con facilidad?
+
+Respuesta:
+
+4. Contraste suficiente
+
+¿El texto se distingue del fondo?
+
+Respuesta:
+
+5. Jerarquía visual
+
+¿Se entiende qué información es principal y qué información es secundaria?
+
+Respuesta:
+
+6. Lenguaje claro
+
+¿Los mensajes son comprensibles para una comunidad general?
+
+Respuesta:
+
+7. Organización visual coherente
+
+¿Las tarjetas mantienen una estructura similar?
+
+Respuesta:
+
+8. Seguridad visual
+
+¿La vista pública evita saturación, confusión o exposición innecesaria?
+
+Respuesta:
+
+9. Minimización de datos visibles
+
+¿La página muestra solo la información necesaria?
+
+Respuesta:
+
+10. Lenguaje responsable y no estigmatizante
+
+¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
+
+Respuesta:
