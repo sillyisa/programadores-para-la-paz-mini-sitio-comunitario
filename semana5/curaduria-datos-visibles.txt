@@ -1,39 +1,39 @@
 Curaduría de datos visibles – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Isabela Castilla Berrío
+Fecha:16/05/2026
+Nombre de la rama:isabela_castilla
 
 Revisa los datos disponibles en data/mensajes.json y data/calendario-editorial.json.
 
 1. ¿Qué datos sí deben mostrarse públicamente en el tablero de mensajes?
 
-Respuesta:
+Respuesta:Debe mostrarse los datos útiles para la comunidad. Como lo son el titulo, categoria, fuente, mensaje, el llamado a la acción.
 
 2. ¿Qué datos no deberían mostrarse públicamente o deben mostrarse con cuidado?
 
-Respuesta:
+Respuesta:Información interna como: las notas internas, revisión editorial, telefonos personales,observaciones privadas.
 
 3. ¿Por qué no todo lo que está en el JSON debe aparecer en la vista pública?
 
-Respuesta:
+Respuesta:No todo debe aparecer a la vista pública porque son para organización del grupo o simplemente no son relevantes para la comunidad.
 
 4. ¿Qué datos ayudan a la comunidad a entender el mensaje?
 
-Respuesta:
+Respuesta:Hay apartados claves que ayudan a entender mejor el mensaje como el mensaje y el llamado a la acción, que se dirigen directamente a la comunidad.
 
 5. ¿Qué datos ayudan a verificar la información?
 
-Respuesta:
+Respuesta:Datos como la fuente, nos indica exactamente de donde salió la información.
 
 6. ¿Qué datos podrían ser internos para revisión editorial?
 
-Respuesta:
+Respuesta:Datos como las observaciones, el responsable, la fuente. Contribuyen a la revisión editorial.
 
 7. ¿Cómo se relaciona la minimización de datos visibles con la confianza comunitaria?
 
-Respuesta:
+Respuesta: Compartir solo lo necesario para la comunidad, permite que haya un espacio seguro de aprender. Los datos que contienen información sensible puede generar un daño si se llegan a compartir. Compartir solo lo necesario aumenta la confianza.
 
 8. Escribe una regla de curaduría para el tablero:
 
-Respuesta:
+Respuesta: Pensar con empatía. La información que llega a nuestras manos así sea verdadera . Debe pasar por un filtro de empatía, pensando en la otra persona y como le puede afectar esa información si se llega visualizar.

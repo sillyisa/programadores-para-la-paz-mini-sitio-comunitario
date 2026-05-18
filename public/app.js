@@ -21,11 +21,14 @@ btnResumen.addEventListener("click", () => {
 async function cargarMensajes() {
   try {
     const respuesta = await fetch("/api/mensajes")
-    const mensajes = await respuesta.json()
+    const todosLosMensajes = await respuesta.json()
+    
+    // LÍNEA 25: Creamos la variable 'mensajes' filtrando solo los aprobados
+    const mensajes = todosLosMensajes.filter(m => m.revisionEditorial === "aprobada");
 
     contenedorMensajes.innerHTML = ""
 
-    for (const mensaje of mensajes) {
+     for (const mensaje of mensajes) {
       const tarjeta = document.createElement("article")
       tarjeta.classList.add("tarjeta-mensaje")
 
@@ -41,7 +44,6 @@ async function cargarMensajes() {
 
         <p><strong>Llamado a la acción:</strong> ${mensaje.llamadoAccion}</p>
         <p class="texto-secundario"><strong>Fuente:</strong> ${mensaje.fuente}</p>
-        <p class="texto-secundario"><strong>Revisión editorial:</strong> ${mensaje.revisionEditorial}</p>
       `
 
       contenedorMensajes.appendChild(tarjeta)
