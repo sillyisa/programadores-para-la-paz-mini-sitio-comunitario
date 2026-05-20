@@ -11,6 +11,14 @@ const mensajeLogin = document.getElementById("mensajeLogin")
 const usuario = document.getElementById("usuario")
 const clave = document.getElementById("clave")
 
+const btnRevisionEditorial = document.getElementById("btnRevisionEditorial")
+const contenedorRevisionEditorial = document.getElementById("contenedorRevisionEditorial")
+
+btnRevisionEditorial.addEventListener("click", () => {
+    cargarRevisionEditorial()
+  })
+  
+
 btnMensajes.addEventListener("click", () => {
   cargarMensajes()
 })
@@ -140,3 +148,39 @@ async function cargarResumen() {
     contenedorResumen.textContent = "No fue posible cargar el resumen. Revisa que el servidor esté funcionando."
   }
 }
+
+async function cargarRevisionEditorial() {
+    try {
+      const token = localStorage.getItem("tokenDemo")
+  
+      const respuesta = await fetch("/api/revision-editorial", {
+        headers: {
+          "Authorization": token
+        }
+      })
+  
+      const datos = await respuesta.json()
+  
+      contenedorRevisionEditorial.innerHTML = ""
+  
+      const tarjeta = document.createElement("article")
+      tarjeta.classList.add("tarjeta-mensaje")
+  
+      tarjeta.innerHTML = `
+        <h3>Revisión editorial protegida</h3>
+        <p>${datos.mensaje}</p>
+        <p>${datos.recomendacion || ""}</p>
+      `
+  
+      if (datos.criterios) {
+        tarjeta.innerHTML += `
+          <p><strong>Criterios:</strong> ${datos.criterios.join(", ")}</p>
+        `
+      }
+  
+      contenedorRevisionEditorial.appendChild(tarjeta)
+    } catch (error) {
+      contenedorRevisionEditorial.textContent = "No fue posible consultar la ruta protegida."
+    }
+  }
+  
