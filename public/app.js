@@ -6,6 +6,32 @@ const contenedorMensajes = document.getElementById("contenedorMensajes")
 const contenedorCalendario = document.getElementById("contenedorCalendario")
 const contenedorResumen = document.getElementById("contenedorResumen")
 
+// Theme toggle: aplica tema guardado o según preferencia del sistema
+const themeToggle = document.getElementById("themeToggle")
+function applyTheme(theme) {
+  if (!themeToggle) return
+  if (theme === "dark") {
+    document.body.classList.add("dark")
+    themeToggle.textContent = "☀️"
+    themeToggle.setAttribute("aria-label", "Cambiar a tema claro")
+  } else {
+    document.body.classList.remove("dark")
+    themeToggle.textContent = "🌙"
+    themeToggle.setAttribute("aria-label", "Cambiar a tema oscuro")
+  }
+}
+
+const savedTheme = localStorage.getItem("theme") || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+applyTheme(savedTheme)
+
+if (themeToggle) {
+  themeToggle.addEventListener("click", () => {
+    const next = document.body.classList.contains("dark") ? "light" : "dark"
+    applyTheme(next)
+    localStorage.setItem("theme", next)
+  })
+}
+
 btnMensajes.addEventListener("click", () => {
   cargarMensajes()
 })
