@@ -1,0 +1,50 @@
+Revisión editorial de mensajes dinámicos – Clase 23
+
+Nombre del estudiante:Isabela Castilla Berrío.
+Fecha:17/05/2026
+Nombre de la rama:isabela_castilla
+
+Selecciona un mensaje que aparezca en el tablero y responde.
+
+1. Título del mensaje seleccionado:
+
+Respuesta:Paticipa con respeto.
+
+2. ¿El mensaje se cargó dinámicamente desde la API?
+
+Respuesta:SÍ. El mensaje dinamico se cargo mediante una API, porque se modifico desde el backend y se ve reflejado en el frontend.
+
+3. ¿El mensaje tiene propósito comunitario?
+
+Respuesta:SÍ. Tiene el propósito que la comunidad comparta sus ideas sin afectar a los demás.
+
+4. ¿El mensaje tiene audiencia clara?
+
+Respuesta:SÍ. El mensaje va dirigido a jóvenes participante.
+
+5. ¿El tono es adecuado?
+
+Respuesta:SÍ. Mantiene un tono pedagógico, pensado para dotar a la comunidad de herramientas digitales.
+
+6. ¿El llamado a la acción es comprensible?
+
+Respuesta:SÍ. Busca que la comunidad o los jovenes participantes compartan sus ideas sin atacar a otras personas.
+
+7. ¿El mensaje tiene fuente o criterio de verificación?
+
+Respuesta:SÍ. La fuente es el equipo de comunicaciones. 
+8. ¿Mantiene consistencia comunicativa con los demás mensajes?
+
+Respuesta:SÍ. Lleva una consistencia con respecto a los otros mensajes, brindando herramientas para la protección comunitaria y personal online.
+
+9. ¿Requiere moderación editorial básica antes de publicarse?
+
+Respuesta:SÍ. Requiere que pase por filtros antes de publicarse. La información que esta en el mini-sitio debe ser una ayuda para la comunidad, por eso es importante protegerla de la desinformación, o sesgos de confirmació.
+
+10. ¿Usa lenguaje responsable y no estigmatizante?
+
+Respuesta:SÍ. El lenguaje usado es respetuoso y busca crear un impacto desde la empatía.
+
+11. Escribe una mejora editorial para el mensaje:
+
+Respuesta:Ampliar el mensaje con el fin que se entienda bien el propósito del apartado. Claro que debe ser información que maneje los filtros editoriales correspondientes.

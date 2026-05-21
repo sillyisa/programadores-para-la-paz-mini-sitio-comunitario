@@ -1,0 +1,67 @@
+Checklist de API propia – Clase 23
+
+Nombre del estudiante: Isabela Castilla Berrío
+Fecha:16/05/2026
+Nombre de la rama:isabela_castilla
+
+Marca SÍ o NO y explica brevemente.
+
+1. Integración Frontend-Backend
+
+¿El frontend consulta información del backend?
+
+Respuesta:SÍ.El font-end consulta la información al back-end para que luego mostrarla en la página.
+
+2. Consumo de la API propia
+
+¿La página usa rutas del mismo proyecto?
+
+Respuesta:SÍ. las rutas provienen de la original. Solo se agrega el destino.
+
+3. Mensajes dinámicos
+
+¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
+
+Respuesta:SÍ. En la pagina se encuentran los mensajes sin necesidad de buscarlos desde el HTML.
+
+4. Ruta GET /api/mensajes
+
+¿La ruta responde correctamente?
+
+Respuesta:SÍ. Se muestran los mensajes solo.
+
+5. Ruta GET /api/calendario
+
+¿La ruta responde correctamente?
+
+Respuesta:SÍ. Se muestra el calendario solo.
+
+6. Ruta GET /api/resumen
+
+¿La ruta responde correctamente?
+
+Respuesta:SÍ. Se muestra el resumen solo.
+
+7. Respuesta JSON
+
+¿Las rutas entregan datos estructurados?
+
+Respuesta:SÍ. Los datos se muestran con una estructura legible.
+
+8. Render dinámico
+
+¿El tablero muestra datos recibidos desde la API?
+
+Respuesta:SÍ. Muestra las peticiones hechas por el frontend, sirve como el puente.
+
+9. Diagnóstico básico
+
+¿Sabes qué revisar si no carga la información?
+
+Respuesta:SÍ. Revisar si hay algún error en la escritura de la ruta.
+
+10. Comunicación responsable
+
+¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
+
+Respuesta:SÍ. Manejan todas las reglas para que el mensaje sea respetuoso y útil.

@@ -1,0 +1,67 @@
+Checklist de accesibilidad y seguridad visual – Clase 22
+
+Nombre del estudiante:Isabela Castilla Berrío
+Fecha:15/05/2026
+Nombre de la rama:isabela_castilla
+
+Marca SÍ o NO y explica brevemente.
+
+1. Tablero de mensajes
+
+¿La interfaz funciona como vitrina comunitaria clara?
+
+Respuesta:SÍ. Por medio de ella tenemos acceso a información importante de beneficio comunitario.
+
+2. Accesibilidad mínima
+
+¿Los títulos son comprensibles y las secciones están separadas?
+
+Respuesta:SÍ. Estan divididos por secciones y apartados que facilitan la comprensión.
+
+3. Legibilidad
+
+¿Los textos se pueden leer con facilidad?
+
+Respuesta:SÍ. La forma en que están estructurados permite que se entienda el mensaje.
+
+4. Contraste suficiente
+
+¿El texto se distingue del fondo?
+
+Respuesta:SÍ. Gracias al diseño, se hace una clara distinción entre los distintos textos.
+
+5. Jerarquía visual
+
+¿Se entiende qué información es principal y qué información es secundaria?
+
+Respuesta:SÍ. La información principal se lee apenas entramos y la secundaria desplegando un botón.
+
+6. Lenguaje claro
+
+¿Los mensajes son comprensibles para una comunidad general?
+
+Respuesta:SÍ. Manejan un lenguaje correcto y propicio para su difunción.
+
+7. Organización visual coherente
+
+¿Las tarjetas mantienen una estructura similar?
+
+Respuesta:SÍ. Tanto el diseño como la manera y lenguaje que utilizan es similar.
+
+8. Seguridad visual
+
+¿La vista pública evita saturación, confusión o exposición innecesaria?
+
+Respuesta:SÍ. Emplea colores que se complementan y evitan confución.
+
+9. Minimización de datos visibles
+
+¿La página muestra solo la información necesaria?
+
+Respuesta:SÍ. Evita ondear en datos innecesarios, solo la información adecuada.
+
+10. Lenguaje responsable y no estigmatizante
+
+¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
+
+Respuesta:SÍ. Maneja un lenguaje respetuoso para la comunidad.

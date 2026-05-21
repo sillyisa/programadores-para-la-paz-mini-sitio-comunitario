@@ -1,0 +1,67 @@
+Mapa del flujo Frontend-Backend – Clase 23
+
+Nombre del estudiante:Isabela Castilla Berrío.
+Fecha:16/05/2026
+Nombre de la rama:isabela_castilla
+
+Completa el flujo con tus palabras.
+
+1. Frontend
+
+¿Qué parte del proyecto corresponde al frontend?
+
+Respuesta: Corresponde todo lo que se puede observar. Como los archivos: public/index.html, public/styles.css, public/app.js
+
+2. Backend
+
+¿Qué parte del proyecto corresponde al backend?
+
+Respuesta:Lo que pasa por detrás, el que recibe las peticiones. 
+
+3. API propia
+
+¿Qué rutas expone la API propia del proyecto?
+
+Respuesta:La API propia del proyecto expone rutas como: /api/mensajes, /api/calendario, /api/resumen
+
+4. Datos
+
+¿Qué archivos JSON usa el backend para responder?
+
+Respuesta: Los archivos que usa para responder son: server.js, data/mensajes.json, data/calendario-editorial.json
+
+5. Consulta desde frontend
+
+¿Qué función de JavaScript se usa para consultar la API?
+
+Respuesta: La función que se utiliza es fetch.
+
+6. Espera de respuesta
+
+¿Qué palabras se usan para esperar la respuesta del servidor?
+
+Respuesta: Las palabras que se usan para esperar respuesta son: async y await.
+
+7. Conversión de respuesta
+
+¿Qué hace respuesta.json()?
+
+Respuesta: Convierte la respuesta en datos que pueda entender JavaScript.
+
+8. Render dinámico
+
+¿Qué significa mostrar datos dinámicamente en el tablero?
+
+Respuesta:Significa que los datos pueden ser actualizados o cambiados para que aparezcan nuevos en el mini-sitio.
+
+9. Prueba
+
+¿Cómo verificaste que la información del tablero coincide con la API?
+
+Respuesta:Revisando los archivos JSON Y comprobando que coincidieran con los mostrados en la pagina.
+
+10. Propósito comunitario
+
+¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
+
+Respuesta:Ayuda a que no solo haya un mensaje predeterminado, sino que cada tanto aparezacan nuevos que ayudan a la comunidad y no la aburra.

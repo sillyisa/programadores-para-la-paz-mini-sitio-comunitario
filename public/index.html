@@ -7,40 +7,52 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <main>
+  <header>
     <h1>Mini-sitio comunitario</h1>
-
     <p>
-      Este proyecto se trabajará durante toda la Semana 5. El mini-sitio consulta mensajes y calendario editorial desde una API.
+      Proyecto único de Semana 5 para difusión responsable, calendario editorial e integración Frontend-Backend.
     </p>
+  </header>
 
+  <main>
     <section>
-      <h2>Proyecto vivo en GitHub</h2>
+      <h2>Integración Frontend-Backend</h2>
       <p>
-        La rama main será actualizada por los docentes. Cada estudiante trabajará en su rama personal.
-      </p>
-      <p>
-        En las siguientes clases se usará git pull origin main para traer mejoras del proyecto base.
+        El frontent consulta la API propia del backend y muestra información dinámica para la comunidad.
       </p>
     </section>
 
     <section>
-      <h2>Mensajes comunitarios</h2>
+      <h2>Tablero de mensajes comunitarios</h2>
+      <p>
+        Esta sección funciona como vitrina comunitaria. Los mensajes se cargan desde la API propia.
+      </p>
       <button id="btnMensajes">Cargar mensajes</button>
-      <div id="contenedorMensajes">Aquí aparecerán los mensajes comunitarios.</div>
+      <div id="contenedorMensajes" class="tablero">
+        Aquí aparecerán los mensajes comunitarios.
+      </div>
     </section>
 
     <section>
       <h2>Calendario editorial</h2>
+      <p>
+        El calendario editorial se consulta desde el backend y permite organizar publicaciones responsables.
+      </p>
       <button id="btnCalendario">Cargar calendario</button>
-      <div id="contenedorCalendario">Aquí aparecerán las piezas del calendario editorial.</div>
+      <div id="contenedorCalendario" class="tablero">
+        Aquí aparecerán las piezas del calendario editorial.
+      </div>
     </section>
 
     <section>
-      <h2>Difusión responsable</h2>
+      <h2>Resumen de la API propia</h2>
       <p>
-        Cada publicación debe revisar fuente, propósito, audiencia, tono, llamado a la acción y lenguaje responsable.
+        Esta sección muestra un resumen generado por el backend a partir de los datos del proyecto.
       </p>
+      <button id="btnResumen">Cargar resumen</button>
+      <div id="contenedorResumen" class="tablero">
+        Aquí aparecerá el resumen del proyecto.
+      </div>
     </section>
   </main>
 

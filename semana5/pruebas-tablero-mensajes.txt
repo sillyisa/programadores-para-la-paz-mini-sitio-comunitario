@@ -1,0 +1,78 @@
+Pruebas del tablero de mensajes – Clase 22
+
+Nombre del estudiante:Isabela Castilla Berrío
+Fecha:16/05/2026
+Nombre de la rama:isabela_castilla
+
+Prueba 1: Abrir mini-sitio
+
+Dirección:
+http://localhost:3000
+
+Resultado esperado:
+El mini-sitio abre correctamente y muestra estructura visual con estilos.
+
+Resultado observado: El mini-sitio si abre adecuadamente. Presentando la estructura visual.
+
+¿Funcionó?
+Respuesta:SÍ.
+
+Prueba 2: Verificar hoja de estilos
+
+Archivo:
+public/styles.css
+
+Resultado esperado:
+La página muestra fondo, secciones, botones y tarjetas con estilos básicos.
+
+Resultado observado: Se puede observar el fondo con las secciones, botones y targetas con los estilos propuestos.
+
+¿Funcionó?
+Respuesta:SÍ.
+
+Prueba 3: Cargar mensajes
+
+Acción:
+Hacer clic en Cargar mensajes.
+
+Resultado esperado:
+Los mensajes aparecen como tarjetas legibles.
+
+Resultado observado: Se despliegan por medio de una targeta los mensajes.
+
+¿Funcionó?
+Respuesta:SÍ.
+
+Prueba 4: Revisar datos visibles
+
+Datos visibles esperados:
+título
+mensaje
+categoría
+audiencia
+tono
+llamado a la acción
+fuente
+
+Resultado observado: En el mini-sitio se observan los datos necesarios. Como: el título, mensaje, categoría, audiencia, tono, llamado a la acción, fuente.
+
+¿Aparecen datos innecesarios?
+Respuesta:No.
+
+Prueba 5: Cargar calendario
+
+Acción:
+Hacer clic en Cargar calendario.
+
+Resultado esperado:
+El calendario aparece como tarjetas con información resumida.
+
+Resultado observado:Se despliega una targeta con el calendario y la información.
+
+¿Funcionó?
+Respuesta:SÍ.
+
+Conclusión:
+¿Qué mejora visual ayudó más a entender la información comunitaria?
+
+Respuesta: Omitir los datos que no son necesarios para la comunidad. Asimismo, el diseño jugó un factor importante.
